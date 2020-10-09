@@ -148,6 +148,6 @@ class Sagu{
     Color(0xffF4F5F9),
   ];
 
-  static const List<List<Color>> colors = [linear1, linear2, linear3, linear4, linear5, linear6];
+  static const List<List<Color>> colors = [linear1, linear2, linear3, linear4, linear5, linear6, linear7];
 
 }
