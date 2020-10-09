@@ -55,4 +55,14 @@ class MyIcons {
   static const IconData userSolid = IconData(0xe940, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bellOutline = IconData(0xe941, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData bellSolid = IconData(0xe942, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData ticket = IconData(0xe943, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData coffee = IconData(0xe944, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData document = IconData(0xe946, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData paperclip = IconData(0xe947, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData tags = IconData(0xe948, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData tag = IconData(0xe949, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData pen = IconData(0xe950, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData create = IconData(0xe951, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData trash = IconData(0xe952, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData write = IconData(0xe953, fontFamily: _kFontFam, fontPackage: _kFontPkg);
 }
